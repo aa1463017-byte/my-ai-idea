@@ -25,5 +25,6 @@ The model may not be 100% accurate and can sometimes misclassify emails. It depe
 - Integrate with real email services
 
 ## 🙏 Acknowledgments
-This project is created as part of the Elements of AI course                                                                              ## 📝 Summary
+This project is created as part of the Elements of AI course   
+## 📝 Summary
 This project is an AI-based system that detects spam emails using machine learning. It analyzes email content and classifies messages as either spam or not spam. The goal is to improve email security and help users avoid unwanted or harmful messages.                     
